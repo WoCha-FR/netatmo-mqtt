@@ -8,7 +8,7 @@ body {font-family: Arial, Helvetica, sans-serif; max-width: 500px; color: white;
 </style>
 </head>
 <body>
-<h3>ERROR</h3>
+<h3>ERREUR</h3>
 <h4 style="color:red; font-weigth:bold">${d.message}</p>
 </body>
 </html>
